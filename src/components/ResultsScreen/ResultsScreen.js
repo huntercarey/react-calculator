@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './ResultsScreen.css';
+import ComputationScreen from '../ComputationScreen/ComputationScreen';
 
 class ResultsScreen extends Component {
     render() {

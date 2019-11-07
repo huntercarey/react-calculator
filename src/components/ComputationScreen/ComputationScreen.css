@@ -1,0 +1,9 @@
+.ComputationScreen {
+    height: 6vh;
+    color:blue;
+    font-size: 15px;
+
+    display: flex;
+    justify-content: flex-end; /*horizontally or X-axis*/
+    align-items: center; /*centers vertically or Y-axis*/
+}
