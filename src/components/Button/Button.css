@@ -1,0 +1,30 @@
+.Button {
+    height: 100%;
+    width: 25%;
+    font-size: 20pt;
+    background-color: white;
+    outline: none;
+    border: 1px solid transparent;
+}
+
+.Button:hover {
+    background-color: violet;
+    transition: .4s;
+}
+
+.Button:active {
+  transform: scale(.95);  
+}
+
+.Button-primary {
+    color: indigo;
+}
+
+.Button-operator {
+    color: lightblue;
+}
+
+.Button-large {
+    width: 50%;
+    background-color: aqua;
+}
